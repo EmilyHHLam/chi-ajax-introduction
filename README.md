@@ -1,4 +1,5 @@
 # AJAX Introduction
+If you fork this repo, you can skip the setup and folder structure. Just run `npm install`.
 ## Setup Node
 - `$ mkdir chi_day_8`
 - `$ cd chi_day_8`
