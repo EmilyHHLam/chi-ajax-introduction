@@ -27,6 +27,7 @@ function refreshProducts() {
     type: 'GET',
     url: '/products',
     success: function(response) {
+      // response is the products array
       console.log(response);
       displayProducts(response);
     }
